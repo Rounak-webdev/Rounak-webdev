@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rounak-webdev
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Java and Backend 
-- 💞️ I’m looking to collaborate on Developing a problem solving Websiite .
+- 👋 Hi, I’m @Rounak kumar jha 
+- 👀 I’m interested in Web Development and Machine learning.
+- 🌱 I’m currently learning Java and Machine Learning in Python .
+- 💞️ I’m looking to collaborate on Developing world with an problem solving Analysis .
 - 📫 You can reach me by Linkedin and my project . 
 - 😄 Pronouns: web developer , Java Developer .
 - ⚡ Fun fact: Enjoying solving the problems .
