@@ -15,7 +15,7 @@
 - 👀 **Interests:** Web Development, Artificial Intelligence, and Machine Learning  
 - 🌱 **Currently Learning:** Advanced **Java**, **Python ML**, and scalable backend design  
 - 💞️ **Looking to Collaborate On:** Building real-world solutions that blend creativity & analytics  
-- 📫 **Reach Me At:** [LinkedIn](www.linkedin.com/in/rounak-kumar-jha-90892b27a) • [GitHub Projects](https://github.com/Rounak-webdev?tab=repositories)  
+- 📫 **Reach Me At:** [LinkedIn](www.linkedin.com/rounak-kumar-jha-90892b27a) • [GitHub Projects](https://github.com/Rounak-webdev?tab=repositories)  
 - 😄 **Pronouns:** Developer • Creator • Tech Enthusiast  
 - ⚡ **Fun Fact:** I enjoy debugging — it’s like solving mini puzzles every day 🧩  
 
@@ -69,7 +69,7 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/rounak-kumar-jha-90892b27a" target="_blank">
+  <a href="www.linkedin.com/rounak-kumar-jha-90892b27a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rounakrjha09@gmail.com">
