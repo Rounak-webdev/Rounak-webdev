@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="banner.gif" alt="Animated Banner" width="1200" style="border-radius:12px;">
+  <img src="https://github.com/Rounak-webdev/YourRepo/raw/main/banner.gif" alt="Animated Banner" width="1200" style="border-radius:12px;">
 </p>
 
 ---
