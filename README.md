@@ -15,7 +15,7 @@
 - 👀 **Interests:** Web Development, Artificial Intelligence, and Machine Learning  
 - 🌱 **Currently Learning:** Advanced **Java**, **Python ML**, and scalable backend design  
 - 💞️ **Looking to Collaborate On:** Building real-world solutions that blend creativity & analytics  
-- 📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/your-linkedin-id) • [GitHub Projects](https://github.com/Rounak-webdev?tab=repositories)  
+- 📫 **Reach Me At:** [LinkedIn](www.linkedin.com/in/rounak-kumar-jha-90892b27a) • [GitHub Projects](https://github.com/Rounak-webdev?tab=repositories)  
 - 😄 **Pronouns:** Developer • Creator • Tech Enthusiast  
 - ⚡ **Fun Fact:** I enjoy debugging — it’s like solving mini puzzles every day 🧩  
 
@@ -35,7 +35,7 @@
   <a href="https://github.com/Rounak-webdev/Heartify.in">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rounak-webdev&repo=Heartify.in&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Rounak-webdev/Machine-Learning-Projects">
+  <a href="https://github.com/Rounak-webdev/LoopTalk">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rounak-webdev&repo=Machine-Learning-Projects&theme=tokyonight" />
   </a>
 </p>
@@ -69,10 +69,10 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="www.linkedin.com/in/rounak-kumar-jha-90892b27a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:rounakrjha09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Rounak-webdev" target="_blank">
