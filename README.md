@@ -36,7 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rounak-webdev&repo=Heartify.in&theme=tokyonight" />
   </a>
   <a href="https://github.com/Rounak-webdev/LoopTalk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rounak-webdev&repo=Machine-Learning-Projects&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rounak-webdev&repo=LoopTalk&theme=tokyonight" />
   </a>
 </p>
 
