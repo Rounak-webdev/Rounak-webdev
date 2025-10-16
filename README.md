@@ -1,11 +1,11 @@
 <!-- ✨ GitHub Profile README for Rounak Kumar Jha -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=750&lines=Hey+there!+👋+I'm+Rounak+Kumar+Jha;Full+Stack+Web+Developer+💻;Java+%26+Machine+Learning+Enthusiast+🤖;Problem+Solver+and+Innovator!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=750&lines=Hey+there!+👋+I'm+Rounak+Kumar+Jha;Full+Stack+Web+Developer+💻;Machine+Learning+Enthusiast+🤖;Problem+Solver+and+Innovator!">
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Rounak-webdev/Rounak-webdev/blob/main/banner.gif" alt="Banner" width="800" style="border-radius:12px;">
+  <img src="./banner.gif" alt="Animated Banner" width="1200" style="border-radius:12px;">
 </p>
 
 ---
